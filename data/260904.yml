@@ -7,7 +7,7 @@ about:
   head: 755aae3
   archived: false
   latestVersion: v1.14.0
-  collectedAt: 2026-09-04T19:29:10Z
+  collectedAt: 2026-09-04T21:01:51Z
 timeline:
   created: 2026-03-19
   lastCommit: 2026-08-18
@@ -30,7 +30,7 @@ recent:
     since: 2026-08-05
     release: 1
     mergedPR: 0
-    openPR: 1
+    openPR: 0
     closedIssue: 0
     openIssue: 0
     commit: 1
@@ -38,7 +38,7 @@ recent:
     since: 2026-07-06
     release: 1
     mergedPR: 0
-    openPR: 1
+    openPR: 0
     closedIssue: 0
     openIssue: 0
     commit: 1
@@ -46,7 +46,7 @@ recent:
     since: 2026-06-06
     release: 1
     mergedPR: 0
-    openPR: 1
+    openPR: 0
     closedIssue: 1
     openIssue: 0
     commit: 1
@@ -54,7 +54,7 @@ recent:
     since: 2026-03-08
     release: 24
     mergedPR: 31
-    openPR: 1
+    openPR: 0
     closedIssue: 8
     openIssue: 0
     commit: 92
@@ -62,7 +62,7 @@ recent:
     since: 2025-09-09
     release: 24
     mergedPR: 31
-    openPR: 1
+    openPR: 0
     closedIssue: 8
     openIssue: 0
     commit: 92
@@ -70,17 +70,45 @@ recent:
     since: 2024-09-14
     release: 24
     mergedPR: 31
-    openPR: 1
+    openPR: 0
     closedIssue: 8
     openIssue: 0
     commit: 122
 total:
   release: 24
   mergedPR: 31
-  openPR: 1
+  openPR: 0
   closedIssue: 8
   openIssue: 0
   commit: 122
 ---
+path: /home/runner/.x-repo/github.com/wentbackward/nv-monitor
+collectedAt: 2026-09-04T21:01:52Z
+loc:
+  C:
+    code: 2856
+    comments: 246
+    blanks: 441
+    files: 3
+  Sh:
+    code: 173
+    comments: 27
+    blanks: 35
+    files: 2
+  Makefile:
+    code: 31
+    comments: 0
+    blanks: 10
+    files: 1
+  Markdown:
+    code: 0
+    comments: 357
+    blanks: 144
+    files: 4
+total:
+  code: 3098
+  comments: 631
+  blanks: 630
+  files: 10
 ---
 
