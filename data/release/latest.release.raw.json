@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 145088,
       "digest": "sha256:d778d2b2db377b7aa52a8ce5119d97592f9e0731ccdde03da63ea37241205f1c",
-      "download_count": 75,
+      "download_count": 76,
       "created_at": "2026-08-18T01:54:48Z",
       "updated_at": "2026-08-18T01:54:48Z",
       "browser_download_url": "https://github.com/wentbackward/nv-monitor/releases/download/v1.14.0/nv-monitor-linux-arm64"
