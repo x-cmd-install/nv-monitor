@@ -22,7 +22,17 @@ x install nv-monitor
 - **Latest**: `v1.14.0` (2026-08-18)
 - **Last commit**: 2026-08-18
 - **Assets in release**: 6
-- **Published**: 2026-08-18T01:54:48Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [demo-load-linux-amd64](https://github.com/wentbackward/nv-monitor/releases/download/v1.14.0/demo-load-linux-amd64) | 21.0 KiB | `native/linux/x64` |
+| [demo-load-linux-arm64](https://github.com/wentbackward/nv-monitor/releases/download/v1.14.0/demo-load-linux-arm64) | 70.2 KiB | `native/linux/arm64` |
+| [demo-load-linux-arm64-legacy](https://github.com/wentbackward/nv-monitor/releases/download/v1.14.0/demo-load-linux-arm64-legacy) | 22.2 KiB | `native/linux/arm64` |
+| [nv-monitor-linux-amd64](https://github.com/wentbackward/nv-monitor/releases/download/v1.14.0/nv-monitor-linux-amd64) | 88.2 KiB | `native/linux/x64` |
+| [nv-monitor-linux-arm64](https://github.com/wentbackward/nv-monitor/releases/download/v1.14.0/nv-monitor-linux-arm64) | 141.7 KiB | `native/linux/arm64` |
+| [nv-monitor-linux-arm64-legacy](https://github.com/wentbackward/nv-monitor/releases/download/v1.14.0/nv-monitor-linux-arm64-legacy) | 77.5 KiB | `native/linux/arm64` |
 
 ## Popularity
 
@@ -56,8 +66,8 @@ Total: **3,060** lines of code across **10** files in the top 5 languages.
 Install metadata for nv-monitor lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `nv-monitor` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/nv-monitor.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/nv-monitor.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:47:46Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:32:52Z._

@@ -4,7 +4,7 @@
 
 Lightweight nVidia telemetry and terminal system monitor - built for any architecture - Jetson, GB10, GB200, H100
 
-![nv-monitor](https://repo.x-cmd.io/nv-monitor.svg)
+![nv-monitor](https://repo.x-cmd.io/nv-monitor.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,17 @@ x install nv-monitor
 - **最新版本**: `v1.14.0` (2026-08-18)
 - **最近提交**: 2026-08-18
 - **Release 含资产**: 6 个
-- **发布时间**: 2026-08-18T01:54:48Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [demo-load-linux-amd64](https://github.com/wentbackward/nv-monitor/releases/download/v1.14.0/demo-load-linux-amd64) | 21.0 KiB | `native/linux/x64` |
+| [demo-load-linux-arm64](https://github.com/wentbackward/nv-monitor/releases/download/v1.14.0/demo-load-linux-arm64) | 70.2 KiB | `native/linux/arm64` |
+| [demo-load-linux-arm64-legacy](https://github.com/wentbackward/nv-monitor/releases/download/v1.14.0/demo-load-linux-arm64-legacy) | 22.2 KiB | `native/linux/arm64` |
+| [nv-monitor-linux-amd64](https://github.com/wentbackward/nv-monitor/releases/download/v1.14.0/nv-monitor-linux-amd64) | 88.2 KiB | `native/linux/x64` |
+| [nv-monitor-linux-arm64](https://github.com/wentbackward/nv-monitor/releases/download/v1.14.0/nv-monitor-linux-arm64) | 141.7 KiB | `native/linux/arm64` |
+| [nv-monitor-linux-arm64-legacy](https://github.com/wentbackward/nv-monitor/releases/download/v1.14.0/nv-monitor-linux-arm64-legacy) | 77.5 KiB | `native/linux/arm64` |
 
 ## 流行度
 
@@ -60,4 +70,4 @@ nv-monitor 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:47:48Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:32:52Z._
