@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 21552,
       "digest": "sha256:cbad66ea9e688bb8d0c7c183695e831888544216c38a175e6cd1519225e6233c",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-18T01:54:48Z",
       "updated_at": "2026-08-18T01:54:48Z",
       "browser_download_url": "https://github.com/wentbackward/nv-monitor/releases/download/v1.14.0/demo-load-linux-amd64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 71920,
       "digest": "sha256:424a86a3301d25d9296e03cf5aa49c61b4c3e7df074400d26cd33bf6e4f7a098",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-08-18T01:54:48Z",
       "updated_at": "2026-08-18T01:54:48Z",
       "browser_download_url": "https://github.com/wentbackward/nv-monitor/releases/download/v1.14.0/demo-load-linux-arm64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 22760,
       "digest": "sha256:9723d996805fbab8f3ec51d06de16fda0efb5e0de126258af1543a9b3be38e70",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-08-18T01:54:48Z",
       "updated_at": "2026-08-18T01:54:48Z",
       "browser_download_url": "https://github.com/wentbackward/nv-monitor/releases/download/v1.14.0/demo-load-linux-arm64-legacy"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 90312,
       "digest": "sha256:368ea40b8242e0057e44495a8433fd7ac8a3597858b598460355a0e2579285e8",
-      "download_count": 38,
+      "download_count": 40,
       "created_at": "2026-08-18T01:54:48Z",
       "updated_at": "2026-08-18T01:54:48Z",
       "browser_download_url": "https://github.com/wentbackward/nv-monitor/releases/download/v1.14.0/nv-monitor-linux-amd64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 145088,
       "digest": "sha256:d778d2b2db377b7aa52a8ce5119d97592f9e0731ccdde03da63ea37241205f1c",
-      "download_count": 80,
+      "download_count": 84,
       "created_at": "2026-08-18T01:54:48Z",
       "updated_at": "2026-08-18T01:54:48Z",
       "browser_download_url": "https://github.com/wentbackward/nv-monitor/releases/download/v1.14.0/nv-monitor-linux-arm64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 79336,
       "digest": "sha256:6506ebee62ef166f3f9f7e5f0c49287d52142b931c1095ab9b76c507b2d7b8ed",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-08-18T01:54:48Z",
       "updated_at": "2026-08-18T01:54:48Z",
       "browser_download_url": "https://github.com/wentbackward/nv-monitor/releases/download/v1.14.0/nv-monitor-linux-arm64-legacy"
