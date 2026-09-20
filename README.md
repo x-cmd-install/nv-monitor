@@ -4,7 +4,7 @@
 
 Lightweight nVidia telemetry and terminal system monitor - built for any architecture - Jetson, GB10, GB200, H100
 
-![nv-monitor](https://repo.x-cmd.io/nv-monitor.svg)
+[![x-cmd/install — nv-monitor Code Quality Monitoring Repo Card](https://repo.x-cmd.io/nv-monitor.svg)](https://x-cmd.com/install/nv-monitor)
 
 ## Install
 
@@ -46,12 +46,12 @@ Total: **3,060** lines of code across **10** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 1 | 0 | 0 | 0 | 0 | 1 |
-| 90d | 2026-06-20 | 1 | 0 | 0 | 0 | 0 | 1 |
-| last180d | 2026-03-22 | 23 | 31 | 0 | 8 | 0 | 80 |
-| 360d | 2025-09-23 | 24 | 31 | 0 | 8 | 0 | 92 |
-| last720d | 2024-09-28 | 24 | 31 | 0 | 8 | 0 | 122 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 1 | 0 | 0 | 0 | 0 | 1 |
+| 90d | 2026-06-22 | 1 | 0 | 0 | 0 | 0 | 1 |
+| last180d | 2026-03-24 | 23 | 31 | 0 | 8 | 0 | 52 |
+| 360d | 2025-09-25 | 24 | 31 | 0 | 8 | 0 | 92 |
+| last720d | 2024-09-30 | 24 | 31 | 0 | 8 | 0 | 122 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for nv-monitor lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:48:44Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:02:38Z._
