@@ -36,22 +36,22 @@ Total: **3,060** lines of code across **10** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 326 · **Forks**: 46 · **Open issues**: 8 · **Contributors**: 6
+- **Stars**: 326 · **Forks**: 46 · **Open issues**: 9 · **Contributors**: 6
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 31 · **Open PRs**: 0 · **Closed issues**: 8 · **Open issues**: 0 · **Commits**: 122
+- **Releases**: 24 · **Merged PRs**: 31 · **Open PRs**: 0 · **Closed issues**: 8 · **Open issues**: 1 · **Commits**: 122
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-29 | 1 | 0 | 0 | 0 | 0 | 1 |
-| 90d | 2026-06-29 | 1 | 0 | 0 | 0 | 0 | 1 |
-| last180d | 2026-03-31 | 17 | 29 | 0 | 7 | 0 | 27 |
-| 360d | 2025-10-02 | 24 | 31 | 0 | 8 | 0 | 92 |
-| last720d | 2024-10-07 | 24 | 31 | 0 | 8 | 0 | 122 |
+| 30d | 2026-08-29 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-30 | 1 | 0 | 0 | 0 | 1 | 1 |
+| 90d | 2026-06-30 | 1 | 0 | 0 | 0 | 1 | 1 |
+| last180d | 2026-04-01 | 17 | 26 | 0 | 7 | 1 | 27 |
+| 360d | 2025-10-03 | 24 | 31 | 0 | 8 | 1 | 92 |
+| last720d | 2024-10-08 | 24 | 31 | 0 | 8 | 1 | 122 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for nv-monitor lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:28:59Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T05:31:28Z._
