@@ -1,0 +1,1 @@
+[{"repo":"aur","srcname":"nv-monitor","binname":"nv-monitor","visiblename":"nv-monitor","version":"1.12.0","origversion":"1.12.0-1","status":"unique","summary":"Local monitoring TUI, CSV logger, and Prometheus exporter for NVIDIA GPU systems","maintainers":["wit3k@aur"],"licenses":["MIT"]}]
