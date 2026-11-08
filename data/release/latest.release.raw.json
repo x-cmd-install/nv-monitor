@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/wentbackward/nv-monitor/releases/372044653",
-  "assets_url": "https://api.github.com/repos/wentbackward/nv-monitor/releases/372044653/assets",
-  "upload_url": "https://uploads.github.com/repos/wentbackward/nv-monitor/releases/372044653/assets{?name,label}",
-  "html_url": "https://github.com/wentbackward/nv-monitor/releases/tag/v1.14.0",
-  "id": 372044653,
+  "url": "https://api.github.com/repos/wentbackward/nv-monitor/releases/437699283",
+  "assets_url": "https://api.github.com/repos/wentbackward/nv-monitor/releases/437699283/assets",
+  "upload_url": "https://uploads.github.com/repos/wentbackward/nv-monitor/releases/437699283/assets{?name,label}",
+  "html_url": "https://github.com/wentbackward/nv-monitor/releases/tag/v1.15.0",
+  "id": 437699283,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDORrsi8M4WLPNt",
-  "tag_name": "v1.14.0",
+  "node_id": "RE_kwDORrsi8M4aFsLT",
+  "tag_name": "v1.15.0",
   "target_commitish": "main",
-  "name": "v1.14.0",
+  "name": "v1.15.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-08-18T01:53:29Z",
-  "updated_at": "2026-08-18T01:54:48Z",
-  "published_at": "2026-08-18T01:54:48Z",
+  "created_at": "2026-11-07T16:38:32Z",
+  "updated_at": "2026-11-08T04:18:02Z",
+  "published_at": "2026-11-07T16:39:19Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/wentbackward/nv-monitor/releases/assets/518774490",
-      "id": 518774490,
-      "node_id": "RA_kwDORrsi8M4e697a",
+      "url": "https://api.github.com/repos/wentbackward/nv-monitor/releases/assets/721269279",
+      "id": 721269279,
+      "node_id": "RA_kwDORrsi8M4q_bIf",
       "name": "demo-load-linux-amd64",
       "label": "",
       "uploader": {
@@ -67,15 +67,15 @@
       "state": "uploaded",
       "size": 21552,
       "digest": "sha256:cbad66ea9e688bb8d0c7c183695e831888544216c38a175e6cd1519225e6233c",
-      "download_count": 11,
-      "created_at": "2026-08-18T01:54:48Z",
-      "updated_at": "2026-08-18T01:54:48Z",
-      "browser_download_url": "https://github.com/wentbackward/nv-monitor/releases/download/v1.14.0/demo-load-linux-amd64"
+      "download_count": 2,
+      "created_at": "2026-11-07T16:39:18Z",
+      "updated_at": "2026-11-07T16:39:19Z",
+      "browser_download_url": "https://github.com/wentbackward/nv-monitor/releases/download/v1.15.0/demo-load-linux-amd64"
     },
     {
-      "url": "https://api.github.com/repos/wentbackward/nv-monitor/releases/assets/518774487",
-      "id": 518774487,
-      "node_id": "RA_kwDORrsi8M4e697X",
+      "url": "https://api.github.com/repos/wentbackward/nv-monitor/releases/assets/721269283",
+      "id": 721269283,
+      "node_id": "RA_kwDORrsi8M4q_bIj",
       "name": "demo-load-linux-arm64",
       "label": "",
       "uploader": {
@@ -103,15 +103,15 @@
       "state": "uploaded",
       "size": 71920,
       "digest": "sha256:424a86a3301d25d9296e03cf5aa49c61b4c3e7df074400d26cd33bf6e4f7a098",
-      "download_count": 16,
-      "created_at": "2026-08-18T01:54:48Z",
-      "updated_at": "2026-08-18T01:54:48Z",
-      "browser_download_url": "https://github.com/wentbackward/nv-monitor/releases/download/v1.14.0/demo-load-linux-arm64"
+      "download_count": 2,
+      "created_at": "2026-11-07T16:39:18Z",
+      "updated_at": "2026-11-07T16:39:19Z",
+      "browser_download_url": "https://github.com/wentbackward/nv-monitor/releases/download/v1.15.0/demo-load-linux-arm64"
     },
     {
-      "url": "https://api.github.com/repos/wentbackward/nv-monitor/releases/assets/518774484",
-      "id": 518774484,
-      "node_id": "RA_kwDORrsi8M4e697U",
+      "url": "https://api.github.com/repos/wentbackward/nv-monitor/releases/assets/721269275",
+      "id": 721269275,
+      "node_id": "RA_kwDORrsi8M4q_bIb",
       "name": "demo-load-linux-arm64-legacy",
       "label": "",
       "uploader": {
@@ -139,15 +139,15 @@
       "state": "uploaded",
       "size": 22760,
       "digest": "sha256:9723d996805fbab8f3ec51d06de16fda0efb5e0de126258af1543a9b3be38e70",
-      "download_count": 6,
-      "created_at": "2026-08-18T01:54:48Z",
-      "updated_at": "2026-08-18T01:54:48Z",
-      "browser_download_url": "https://github.com/wentbackward/nv-monitor/releases/download/v1.14.0/demo-load-linux-arm64-legacy"
+      "download_count": 2,
+      "created_at": "2026-11-07T16:39:18Z",
+      "updated_at": "2026-11-07T16:39:19Z",
+      "browser_download_url": "https://github.com/wentbackward/nv-monitor/releases/download/v1.15.0/demo-load-linux-arm64-legacy"
     },
     {
-      "url": "https://api.github.com/repos/wentbackward/nv-monitor/releases/assets/518774485",
-      "id": 518774485,
-      "node_id": "RA_kwDORrsi8M4e697V",
+      "url": "https://api.github.com/repos/wentbackward/nv-monitor/releases/assets/721269278",
+      "id": 721269278,
+      "node_id": "RA_kwDORrsi8M4q_bIe",
       "name": "nv-monitor-linux-amd64",
       "label": "",
       "uploader": {
@@ -174,16 +174,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 90312,
-      "digest": "sha256:368ea40b8242e0057e44495a8433fd7ac8a3597858b598460355a0e2579285e8",
-      "download_count": 194,
-      "created_at": "2026-08-18T01:54:48Z",
-      "updated_at": "2026-08-18T01:54:48Z",
-      "browser_download_url": "https://github.com/wentbackward/nv-monitor/releases/download/v1.14.0/nv-monitor-linux-amd64"
+      "digest": "sha256:5012e49b2ebf0f8bd5e9677aab6798395a8142373b8263a85458bf410bbefd71",
+      "download_count": 2,
+      "created_at": "2026-11-07T16:39:18Z",
+      "updated_at": "2026-11-07T16:39:18Z",
+      "browser_download_url": "https://github.com/wentbackward/nv-monitor/releases/download/v1.15.0/nv-monitor-linux-amd64"
     },
     {
-      "url": "https://api.github.com/repos/wentbackward/nv-monitor/releases/assets/518774486",
-      "id": 518774486,
-      "node_id": "RA_kwDORrsi8M4e697W",
+      "url": "https://api.github.com/repos/wentbackward/nv-monitor/releases/assets/721269274",
+      "id": 721269274,
+      "node_id": "RA_kwDORrsi8M4q_bIa",
       "name": "nv-monitor-linux-arm64",
       "label": "",
       "uploader": {
@@ -210,16 +210,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 145088,
-      "digest": "sha256:d778d2b2db377b7aa52a8ce5119d97592f9e0731ccdde03da63ea37241205f1c",
-      "download_count": 214,
-      "created_at": "2026-08-18T01:54:48Z",
-      "updated_at": "2026-08-18T01:54:48Z",
-      "browser_download_url": "https://github.com/wentbackward/nv-monitor/releases/download/v1.14.0/nv-monitor-linux-arm64"
+      "digest": "sha256:8ece23a74686e5ba20ae62e356ba278c112275b297b36303907bb86b271b8bce",
+      "download_count": 4,
+      "created_at": "2026-11-07T16:39:18Z",
+      "updated_at": "2026-11-07T16:39:18Z",
+      "browser_download_url": "https://github.com/wentbackward/nv-monitor/releases/download/v1.15.0/nv-monitor-linux-arm64"
     },
     {
-      "url": "https://api.github.com/repos/wentbackward/nv-monitor/releases/assets/518774489",
-      "id": 518774489,
-      "node_id": "RA_kwDORrsi8M4e697Z",
+      "url": "https://api.github.com/repos/wentbackward/nv-monitor/releases/assets/721269276",
+      "id": 721269276,
+      "node_id": "RA_kwDORrsi8M4q_bIc",
       "name": "nv-monitor-linux-arm64-legacy",
       "label": "",
       "uploader": {
@@ -245,15 +245,28 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 79336,
-      "digest": "sha256:6506ebee62ef166f3f9f7e5f0c49287d52142b931c1095ab9b76c507b2d7b8ed",
-      "download_count": 27,
-      "created_at": "2026-08-18T01:54:48Z",
-      "updated_at": "2026-08-18T01:54:48Z",
-      "browser_download_url": "https://github.com/wentbackward/nv-monitor/releases/download/v1.14.0/nv-monitor-linux-arm64-legacy"
+      "size": 83432,
+      "digest": "sha256:0471463953c511289f4774c3ef82af7b6ea50a8a1e421e2d87f0b5ca34a126e7",
+      "download_count": 2,
+      "created_at": "2026-11-07T16:39:18Z",
+      "updated_at": "2026-11-07T16:39:18Z",
+      "browser_download_url": "https://github.com/wentbackward/nv-monitor/releases/download/v1.15.0/nv-monitor-linux-arm64-legacy"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/wentbackward/nv-monitor/tarball/v1.14.0",
-  "zipball_url": "https://api.github.com/repos/wentbackward/nv-monitor/zipball/v1.14.0",
-  "body": "\n## Which binary should I download?\n\n| File | Use on |\n|------|--------|\n| `nv-monitor-linux-arm64` | Modern aarch64 Linux (Ubuntu 24.04+, glibc 2.39+). **DGX Spark.** |\n| `nv-monitor-linux-arm64-legacy` | Older aarch64 Linux (glibc 2.35+). **Jetson Orin / JetPack 5/6.** Also works on newer systems. |\n| `nv-monitor-linux-amd64` | x86_64 Linux with an NVIDIA GPU. |\n| `demo-load-linux-*` | Companion synthetic load generator for testing. Same platform rules as nv-monitor. |\n\nIf in doubt on arm64, pick `-legacy` — it works almost everywhere.\n"
+  "tarball_url": "https://api.github.com/repos/wentbackward/nv-monitor/tarball/v1.15.0",
+  "zipball_url": "https://api.github.com/repos/wentbackward/nv-monitor/zipball/v1.15.0",
+  "body": "## What's changed\n\n### Bug fixes\n\n- **Headless `peak_30m` metrics were always 0.** With `-n` (e.g. running as a systemd service), the 30-minute windowed peaks were never updated, so every `nv_*_peak_30m_*` Prometheus metric and `peak_30m_*` CSV column read 0. Peaks are now sampled in the headless loop as well, for both `-p` and `-l`. Thanks @gringus for reporting this (#42). (04efd02)\n- **TUI flickered on every refresh.** The screen was fully cleared on every frame. ncurses now only redraws what changed, which removes the flicker and cuts terminal output by about 80%. A full repaint still happens on resize, every 60s as a safety net, and on demand with the new **Ctrl-L** key. Thanks @meteoricfarm for the report and suggested fix (#43). (aee5cf1)\n\n**Full changelog:** https://github.com/wentbackward/nv-monitor/compare/v1.14.0...v1.15.0\n\n## Which binary should I download?\n\n| File | Use on |\n|------|--------|\n| `nv-monitor-linux-arm64` | Modern aarch64 Linux (Ubuntu 24.04+, glibc 2.39+). **DGX Spark.** |\n| `nv-monitor-linux-arm64-legacy` | Older aarch64 Linux (glibc 2.35+). **Jetson Orin / JetPack 5/6.** Also works on newer systems. |\n| `nv-monitor-linux-amd64` | x86_64 Linux with an NVIDIA GPU. |\n| `demo-load-linux-*` | Companion synthetic load generator for testing. Same platform rules as nv-monitor. |\n\nIf in doubt on arm64, pick `-legacy` — it works almost everywhere.\n\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/wentbackward/nv-monitor/releases/437699283/reactions",
+    "total_count": 1,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 1,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  },
+  "mentions_count": 2
 }
