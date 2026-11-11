@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 90312,
       "digest": "sha256:5012e49b2ebf0f8bd5e9677aab6798395a8142373b8263a85458bf410bbefd71",
-      "download_count": 5,
+      "download_count": 10,
       "created_at": "2026-11-07T16:39:18Z",
       "updated_at": "2026-11-07T16:39:18Z",
       "browser_download_url": "https://github.com/wentbackward/nv-monitor/releases/download/v1.15.0/nv-monitor-linux-amd64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 145088,
       "digest": "sha256:8ece23a74686e5ba20ae62e356ba278c112275b297b36303907bb86b271b8bce",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-07T16:39:18Z",
       "updated_at": "2026-11-07T16:39:18Z",
       "browser_download_url": "https://github.com/wentbackward/nv-monitor/releases/download/v1.15.0/nv-monitor-linux-arm64"
